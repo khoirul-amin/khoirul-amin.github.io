@@ -1,0 +1,8 @@
+{
+	"eslint.packageManager": "yarn",
+	"files.trimTrailingWhitespace": true,
+	"npm.packageManager": "yarn",
+	"search.exclude": {
+		"**/dist": true
+	}
+}
